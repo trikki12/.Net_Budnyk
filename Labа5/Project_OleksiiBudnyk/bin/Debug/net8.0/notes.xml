@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Notes>
+  <Note>
+    <Title>Lab 5</Title>
+    <Content>Learning JSON and XML serialization</Content>
+    <CreatedDate>2026-05-01T15:56:40.2775733+01:00</CreatedDate>
+  </Note>
+  <Note>
+    <Title>Study</Title>
+    <Content>Repeat IDisposable and using</Content>
+    <CreatedDate>2026-04-30T15:56:40.2814817+01:00</CreatedDate>
+  </Note>
+</Notes>
